@@ -1,3 +1,9 @@
+> [!WARNING]
+> **Progetto archiviato (novembre 2026).** Questo prototipo del 2025 chiamava `gpt-4`, che OpenAI ha spento il 23 ottobre 2026: non funziona più.
+> Le sue funzioni ora vivono in **[ai-devops-starter-kit v2](https://github.com/MassimoDanieli/ai-devops-starter-kit)**: review del diff della PR e proposte di test (`aikit review`, `aikit testgen`), con qualsiasi fornitore (Anthropic, OpenAI o un modello locale).
+>
+> *Archived (November 2026): this 2025 prototype called `gpt-4`, shut down by OpenAI on 23 October 2026. Its features live on in [ai-devops-starter-kit v2](https://github.com/MassimoDanieli/ai-devops-starter-kit) (`aikit review / aikit testgen`).*
+
 # AI DevOps Demo
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/MassimoDanieli/ai-devops-demo/ci.yml?branch=main)](https://github.com/MassimoDanieli/ai-devops-demo/actions)
